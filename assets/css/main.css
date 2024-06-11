@@ -3491,6 +3491,7 @@
 		}
 
 		#banner .inner {
+			color: #4107e1;
 			max-width: 65em;
 			width: calc(100% - 6em);
 			margin: 0 auto;
