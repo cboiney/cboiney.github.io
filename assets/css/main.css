@@ -1785,7 +1785,7 @@
 	}
 
 	a {
-		color: #e5474b;
+		color: #0937b6;
 	}
 
 	strong, b {
@@ -3132,7 +3132,7 @@
 			}
 
 		#header .logo {
-			font-family: 'Courier', cursive;
+			font-family: 'inherit', cursive;
 			display: inline-block;
 			height: inherit;
 			left: 0;
