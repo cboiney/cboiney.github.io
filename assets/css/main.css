@@ -3132,7 +3132,8 @@
 			}
 
 		#header .logo {
-			font-family: 'inherit', cursive;
+			font: 'Georgia';
+			/*font-family: 'Georgia', cursive;*/
 			display: inline-block;
 			height: inherit;
 			left: 0;
@@ -3141,7 +3142,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #4107e1;
+			color: #0937b6;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
