@@ -1587,8 +1587,9 @@
 /* Type */
 
 	body {
-		background-color: #e300a2;
-		color: #d2e90c;
+		/*"The levitt center's...*/
+		background-color: #ffffff;
+		color: #000000;
 	}
 
 	body, input, select, textarea {
@@ -1792,7 +1793,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #e5474b;
+		color: #0937b6;
 	}
 
 	blockquote {
