@@ -4022,17 +4022,7 @@
 		background: url('images/uticatents.jpg') no-repeat center center;
 		background-size: cover;
 	}
-	/* Optional: Adding a semi-transparent background color for better text visibility */
-	#curated-message::before {
-		content: '';
-		position: absolute;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom: 0;
-		background: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
-		z-index: 1;
-	}
+
 	#curated-message h1 {
 		position: relative;
 		z-index: 2;
