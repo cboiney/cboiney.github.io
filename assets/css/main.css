@@ -1785,7 +1785,7 @@
 	}
 
 	a {
-		color: #0937b6;
+		color: #125488;
 	}
 
 	strong, b {
@@ -1793,7 +1793,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #0937b6;
+		color: #125488;
 	}
 
 	blockquote {
@@ -1961,8 +1961,8 @@
 		button.alt,
 		.button.alt {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #0937b6;
-			color: #0937b6 !important;
+			box-shadow: inset 0 0 0 2px #125488;
+			color: #125488 !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -3102,8 +3102,8 @@
 	}
 
 	#header {
-		background: #000000;
-		color: #0937b6;
+		background: #d1ebff;
+		color: #125488;
 		cursor: default;
 		height: 5em;
 		left: 0;
@@ -3142,7 +3142,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #0937b6;
+			color: #125488;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
@@ -3160,7 +3160,7 @@
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
 			padding: 0 2em;
-			color: #0937b6;
+			color: #125488;
 			text-decoration: none;
 			text-transform: uppercase;
 			font-weight: 700;
@@ -3752,7 +3752,7 @@
 		background-color: #102ce5;
 		color: #ffffff;
 		padding: 4em 0 2em 0;
-		background: #0937b6;
+		background: #125488;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -3943,7 +3943,7 @@
 			padding: 0;
 		}
 .copyright {
-	background: #0937b6;
+	background: #125488;
 	font-size: 0.9em;
 	padding: 2em 0 2em 0;
 	text-align: center;
