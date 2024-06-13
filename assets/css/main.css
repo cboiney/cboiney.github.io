@@ -3370,7 +3370,7 @@
 		color: #272aea;
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("images/uticatents.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
@@ -4013,17 +4013,3 @@
         display: block;
     }
 
-	/* Additional styles for the background image */
-	#curated-message {
-		position: relative;
-		color: white;
-		padding: 20px;
-		text-align: center;
-		background: url('images/uticatents.jpg') no-repeat center center;
-		background-size: cover;
-	}
-
-	#curated-message h1 {
-		position: relative;
-		z-index: 2;
-	}
